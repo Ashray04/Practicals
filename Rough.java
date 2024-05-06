@@ -1,5 +1,5 @@
 import java.util.Random;
-public class GenerateRandomNumber.java {
+public class GenerateRandomNumber {
     
     private static final int ARRAY_SIZE = 1000000;
 
