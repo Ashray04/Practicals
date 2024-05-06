@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Rough {
+public class GenerateRandomNumber.java {
     
     private static final int ARRAY_SIZE = 1000000;
 
